@@ -1,0 +1,8 @@
+{
+    "dataroot": "D:/VKR/dataset/Dataset_landscape/conv_maps",
+    "map_size": 1200,
+    "path_to_save_dataset": "D:/VKR/dataset/dataset_1200_100/1",
+    "need_create_folder": true,
+    "mode": "cut+resize",
+    "resize_size": 100
+}
